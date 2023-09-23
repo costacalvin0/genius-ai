@@ -3,53 +3,59 @@ import { Card, CardContent, CardHeader, CardTitle } from "./ui/card";
 
 const testimonials = [
   {
-    name: "Antonio",
+    name: "Antonio A.",
     avatar: "A",
-    title: "Software Engineer",
-    description: "This is the best AI Application I've used!",
-  },
-  {
-    name: "Adrian",
-    avatar: "A",
-    title: "Youtuber",
-    description: "Easy to use and create content for my youtube!",
-  },
-  {
-    name: "Letticia",
-    avatar: "L",
-    title: "Teacher",
-    description: "This is the best AI Application I've used!",
-  },
-  {
-    name: "James",
-    avatar: "J",
-    title: "Nurse",
-    description: "This is the best AI Application I've used!",
-  },
-  {
-    name: "Kelvin",
-    avatar: "K",
-    title: "Software Engineer",
-    description: "This is the best AI Application I've used!",
-  },
-  {
-    name: "Nahiyan",
-    avatar: "A",
-    title: "Software Engineer",
-    description: "This is the best AI Application I've used!",
-  },
-  {
-    name: "Raymond",
-    avatar: "R",
-    title: "Student",
-    description: "This is the best AI Application I've used!",
-  },
-  {
-    name: "Matthew",
-    avatar: "A",
-    title: "Director",
+    title: "Software Engineer @ Microsoft",
     description:
-      "Helps me create awesome videos that I can use within my movies!",
+      "This is the best AI Application I've used! Simple yet effective!",
+  },
+  {
+    name: "Adrian C.",
+    avatar: "A",
+    title: "Youtuber @ The Young Turks",
+    description: "Easy to use and creates amazing content for my youtube!",
+  },
+  {
+    name: "Letticia R.",
+    avatar: "L",
+    title: "Counselor @ Department Of Education",
+    description:
+      "I use Genius to format and proof read over the hundreds of emails I go through in a week! Love it!",
+  },
+  {
+    name: "James B.",
+    avatar: "J",
+    title: "Registered Nurse @ New York Presbyterian",
+    description:
+      "If I ever need a quick answer regarding my daily routine as an RN, I use this!",
+  },
+  {
+    name: "Kelvin D.",
+    avatar: "K",
+    title: "Project Manager @ Netflix",
+    description:
+      "It's ChatGPT with a nice dashboard + extra services, what else do you need?",
+  },
+  {
+    name: "Matthew B.",
+    avatar: "A",
+    title: "Indie Director",
+    description:
+      "Allows me to create awesome videos that I can use within my movies!",
+  },
+  {
+    name: "Nahiyan G.",
+    avatar: "A",
+    title: "Social Media Manager @ Instagram",
+    description:
+      "Love how it combines multiple AI services into one simple and fast dashboard!",
+  },
+  {
+    name: "Raymond S.",
+    avatar: "R",
+    title: "Student @ City Tech",
+    description:
+      "Helps me quickly find solutions and learn new things that I need for College!",
   },
 ];
 
